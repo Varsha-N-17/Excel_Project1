@@ -82,4 +82,4 @@ This project successfully identified key tourism trends in Telangana. The insigh
 For questions or feedback, feel free to reach out:
 
 - 📧 varsharajan02018@gmail.com  
-- 💼 https://www.linkedin.com/varsha-r-
+- 💼 https://www.linkedin.com/in/varsha-r-657999215
